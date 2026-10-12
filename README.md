@@ -2,7 +2,6 @@
 
 > **Student Innovation – Smart Education**  
 > Peer-to-Peer Smart Learning Platform connecting school students (Classes 5–12, JEE, NEET) with top verified college mentors from IITs, NITs, BITS Pilani, and AIIMS.
-
 ---
 
 ## 🌟 Key Features
